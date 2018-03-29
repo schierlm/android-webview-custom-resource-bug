@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bug Demo App</string>
+    <string name="localized_text">This text is localized by our custom Resource subclass.</string>
+</resources>
